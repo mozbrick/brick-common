@@ -1,12 +1,11 @@
 {
   "name": "brick-common",
   "description": "Brick Common files",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "keywords": [
     "brick",
     "custom",
-    "elements",
-    "x-tag"
+    "elements"
   ],
   "main": [
     "styles/mixins.styl",
